@@ -1,5 +1,5 @@
 # Spotify Plus
-Spotify Plus is a tools for bypass spotify premium feature
+Spotify Plus is a tools for bypass spotify premium feature, and also included downloader tools (i will add other tools as soon as possible)
 
 # How to use
 1. Download the tools
@@ -10,4 +10,29 @@ Spotify Plus is a tools for bypass spotify premium feature
 Congrats you got spotify premium access
 
 # Windows Defender
-Turn off the windows defender protection because it will detected as thread when you proceed it
+Turn off the windows defender protection because it will detected as thread when you proced the spotify premium feature (if you got thread)
+
+# Support me
+Ko-Fi<br>
+https://ko-fi.com/r3verseninja<br>
+Saweria<br>
+https://saweria.co/R3verseNinja
+
+# Social Media
+Thanks for using my tools
+
+[GitHub](https://github.com/R3verseNinja)<br>
+[Telegram](https://t.me/smart_hubs)<br>
+[Telegram Bot](https://t.me/steamcloudsbot)<br>
+[Youtube](https://youtube.com/@smart_mods)
+
+# Changelogs
+v1.1 <br>
+- Initial Release
+
+<br> v1.2
+- Added Auto Check Update Tool
+- Added Spotify Downloader
+- Added Youtube Downloader
+- Added Tiktok Downloader
+- Fixed Bugs
