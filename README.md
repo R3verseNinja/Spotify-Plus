@@ -36,3 +36,6 @@ v1.1 <br>
 - Added Youtube Downloader
 - Added Tiktok Downloader
 - Fixed Bugs
+
+<br> v1.3
+- Resolved issue with MP3 file downloads from Youtube Downloader
