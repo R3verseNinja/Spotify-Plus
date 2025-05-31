@@ -12,9 +12,10 @@ Spotify Plus is a tools for bypass spotify premium feature, and also included do
 
 # How to use
 1. Download the tools
-2. Check tutorial menu
-3. Press Proceed spotify premium
-4. Done
+2. Check welcome message
+3. Go to Spotify Premium 
+4. Press Proceed spotify premium
+5. Done
 
 Congrats you got spotify premium access
 
