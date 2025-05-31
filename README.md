@@ -37,3 +37,4 @@ Thanks for using my tools
 [Youtube](https://youtube.com/@smart_mods)
 
 # Changelogs
+[Click Here | Changelogs](https://github.com/R3verseNinja/Spotify-Plus/blob/main/Changelogs.md)
