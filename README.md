@@ -5,9 +5,6 @@ Spotify Plus is a tools for bypass spotify premium feature, and also included do
 
 # Feature
 - Spotify Premium
-- Spotify Downloader
-- Youtube Downloader
-- Tiktok Downloader
 
 
 # How to use
