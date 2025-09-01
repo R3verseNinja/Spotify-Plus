@@ -26,7 +26,7 @@ Saweria<br>
 https://saweria.co/R3verseNinja
 
 # Social Media
-Thanks for using my tools
+Thanks for using my tools<br>
 [Discord](https://discord.gg/G89gC8wJg4)<br>
 [GitHub](https://github.com/R3verseNinja)<br>
 [Telegram](https://t.me/smart_hubs)<br>
