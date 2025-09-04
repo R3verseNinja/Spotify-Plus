@@ -1,4 +1,6 @@
-
+<p align="center">
+<img width="497" height="329" alt="Screenshot 2025-09-01 165535" src="https://github.com/user-attachments/assets/0e77fb33-64f1-45d7-9ef9-057ac5e1aca4" />
+</p>
 
 # Spotify Plus
 Unlock Ad-Free Spotify with Spotify Plus
