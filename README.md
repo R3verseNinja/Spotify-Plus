@@ -4,7 +4,7 @@
 Spotify Plus is a tools for bypass spotify premium feature, and also included downloader tools (i will add other tools as soon as possible)
 
 # Feature
-- Spotify Premium
+- Spotify Premium (Powered by Spicetify
 
 
 # How to use
