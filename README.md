@@ -1,11 +1,19 @@
 
 
 # Spotify Plus
-Spotify Plus is a tools for bypass spotify premium feature, and also included downloader tools (i will add other tools as soon as possible)
+Unlock Ad-Free Spotify with Spotify Plus
+Tired of ads interrupting your music? Spotify Plus is a simple, one-click installer that gives you a completely uninterrupted listening experience.
+Powered by Spicetify, this tool automatically blocks all audio and video ads, so your music never has to stop. Just one click is all it takes to get started.
+
 
 # Feature
 - Spotify Premium (Powered by Spicetify
+- Spotify Downloader (Removed)
+- Youtube Downloader (Removed)
+- Tiktok Downloader (Removed)
 
+Note :
+Temporarily unavailable for future performance improvements.
 
 # How to use
 1. Download the tools
