@@ -1,5 +1,6 @@
 <p align="center">
-<img width="497" height="329" alt="Screenshot 2025-09-01 165535" src="https://github.com/user-attachments/assets/0e77fb33-64f1-45d7-9ef9-057ac5e1aca4" />
+<img width="426" height="166" alt="splus" src="https://github.com/user-attachments/assets/b24b5a75-3ca9-4b47-8d86-7fcb2a2df79e" />
+
 </p>
 
 # Spotify Plus
@@ -11,13 +12,10 @@ Powered by Spicetify, this tool automatically blocks all audio and video ads, so
 # Feature
 - Patch Spotify Premium
 
-Note :
-Temporarily unavailable for future performance improvements.
-
 # How to use
 1. Download the tools
-2. Extract the tools
-3. Run the Program with press PROCEED PREMIUM button
+2. Run the tools
+3. Click Patch Now
 4. Wait until the isntallation finish
 5. Done
 
