@@ -9,10 +9,7 @@ Powered by Spicetify, this tool automatically blocks all audio and video ads, so
 
 
 # Feature
-- Spotify Premium (Powered by Spicetify)
-- Spotify Downloader (Removed)
-- Youtube Downloader (Removed)
-- Tiktok Downloader (Removed)
+- Patch Spotify Premium
 
 Note :
 Temporarily unavailable for future performance improvements.
