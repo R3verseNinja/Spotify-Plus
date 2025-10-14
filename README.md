@@ -1,5 +1,6 @@
 <p align="center">
-<img width="426" height="166" alt="splus" src="https://github.com/user-attachments/assets/b24b5a75-3ca9-4b47-8d86-7fcb2a2df79e" />
+
+<img width="420" height="157" alt="splus" src="https://github.com/user-attachments/assets/83d9d2f2-bc6d-4aad-8938-63b2510c80c1" />
 
 </p>
 
@@ -30,13 +31,12 @@ Ko-Fi<br>
 https://ko-fi.com/r3verseninja<br>
 Saweria<br>
 https://saweria.co/R3verseNinja
+Paypal<br>
+https://paypal.me/steamclouds
 
 # Social Media
 Thanks for using my tools<br>
-[Discord](https://discord.gg/G89gC8wJg4)<br>
-[GitHub](https://github.com/R3verseNinja)<br>
-[Telegram](https://t.me/smart_hubs)<br>
-[Telegram Bot](https://t.me/steamcloudsbot)<br>
+[Discord]([https://discord.gg/G89gC8wJg4](https://discord.gg/Qsp6Sbq6wy))<br>
 [Youtube](https://youtube.com/@smart_mods)
 
 # Changelogs
